@@ -1,0 +1,38 @@
+[
+  {
+    "code": "InfoReceived",
+    "description": "Kurir telah menerima informasi paket dan bersiap untuk mengambil paket tersebut."
+  },
+  {
+    "code": "InTransit",
+    "description": "Paket sedang dalam perjalanan dan berada dalam kondisi pengangkutan yang baik."
+  },
+  {
+    "code": "OutForDelivery",
+    "description": "Paket telah tiba di titik lokal atau sedang dalam perjalanan menuju rumah Anda."
+  },
+  {
+    "code": "FailedAttempt",
+    "description": "Pengiriman paket telah dicoba namun gagal karena beberapa alasan."
+  },
+  {
+    "code": "Delivered",
+    "description": "Paket telah dikirimkan. Selamat!"
+  },
+  {
+    "code": "ReturnToSender",
+    "description": "Paket sedang dalam perjalanan kembali ke pengirim. Biasanya, ini terjadi ketika penerima menolak untuk menerima paket."
+  },
+  {
+    "code": "Exception",
+    "description": "Paket hilang, rusak, ditahan, dll."
+  },
+  {
+    "code": "Expired",
+    "description": "Lacak terakhir paket belum diperbarui selama 30 hari. Silakan hubungi kurir untuk detail lebih lanjut."
+  },
+  {
+    "code": "Pending",
+    "description": "Belum ada informasi karena paket tertunda untuk dilacak atau kurir salah. Harap tunggu pembaruan atau periksa kurir."
+  }
+]
