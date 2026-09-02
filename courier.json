@@ -1,67 +1,69 @@
 [
-  {
-    "code": "spx",
-    "description": "Shopee Express",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Shopee.svg/1024px-Shopee.svg.png"
-  },
-  {
-    "code": "jne",
-    "description": "Jalur Nugraha Ekakurir",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_JNE.svg/1024px-Logo_JNE.svg.png"
-  },
-  {
-    "code": "jnt",
-    "description": "J&T Express",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/J%26T_Express_logo.svg/1024px-J%26T_Express_logo.svg.png"
-  },
-  {
-    "code": "sicepat",
-    "description": "Sicepat Express",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_SiCepat_Express.svg/1024px-Logo_SiCepat_Express.svg.png"
-  },
-  {
-    "code": "ninja",
-    "description": "Ninja Express",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ninja_Van_logo.svg/1024px-Ninja_Van_logo.svg.png"
-  },
-  {
-    "code": "pos",
-    "description": "POS Indonesia",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_Pos_Indonesia_2023.svg/1024px-Logo_Pos_Indonesia_2023.svg.png"
-  },
-  {
-    "code": "sap",
-    "description": "SAP Express",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SAP_Express_Logo.svg/1024px-SAP_Express_Logo.svg.png"
-  },
-  {
-    "code": "lex",
-    "description": "Lazada Logistics",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lazada_%282019%29.svg/1024px-Lazada_%282019%29.svg.png"
-  },
-  {
-    "code": "lion",
-    "description": "Lion Parcel",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lion_Parcel_logo.svg/1024px-Lion_Parcel_logo.svg.png"
-  },
-  {
-    "code": "ide",
-    "description": "ID Express",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ID_Express_logo_%28vector%29.svg/1024px-ID_Express_logo_%28vector%29.svg.png"
-  },
-  {
-    "code": "anteraja",
-    "description": "Anteraja",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anteraja_logo.svg/1024px-Anteraja_logo.svg.png"
-  },
-  {
-    "code": "wahana",
-    "description": "Wahana Prestasi Logistik",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_Wahana_Prestasi_Logistik_%28vector%29.svg/1024px-Logo_Wahana_Prestasi_Logistik_%28vector%29.svg.png"
-  },
-  {
-    "code": "tiki",
-    "description": "TIKI",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TIKI.svg/1024px-Logo_TIKI.svg.png"
-  }
+  {
+    "code": "spx",
+    "description": "Shopee Express",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Shopee.svg"
+  },
+  {
+    "code": "jne",
+    "description": "Jalur Nugraha Ekakurir",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_JNE.svg"
+  },
+  {
+    "code": "jnt",
+    "description": "J&T Express",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/J%26T_Express_logo.svg"
+  },
+  {
+    "code": "sicepat",
+    "description": "Sicepat Express",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_SiCepat_Express.svg"
+  },
+  {
+    "code": "ninja",
+    "description": "Ninja Express",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ninja_Van_logo.svg"
+  },
+  {
+    "code": "pos",
+    "description": "POS Indonesia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Pos_Indonesia_2023.svg"
+  },
+  {
+    "code": "sap",
+    "description": "SAP Express",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/SAP_Express_logo.png"
+  },
+  {
+    "code": "lex",
+    "description": "Lazada Logistics",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lazada_%282019%29.svg"
+  },
+  {
+    "code": "lion",
+    "description": "Lion Parcel",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lion_Parcel_logo.svg"
+  },
+  {
+    "code": "ide",
+    "description": "ID Express",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/ID_Express_logo.png"
+  },
+  {
+    "code": "anteraja",
+    "description": "Anteraja",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Anteraja_logo.svg"
+  },
+  {
+    "code": "wahana",
+    "description": "Wahana Prestasi Logistik",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Wahana_Prestasi_Logistik.png"
+  },
+  {
+    "code": "tiki",
+    "description": "TIKI",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_TIKI.svg"
+  }
 ]
+
+tolonng ubah semua imageUrl yang png cari dari wikipedia dan website lain
